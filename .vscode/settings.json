@@ -1,6 +1,7 @@
 {
-    "C_Cpp.errorSquiggles": "enabled",
-    "files.associations": {
-        "iostream": "cpp"
-    }
+  // Basic settings
+  "C_Cpp.errorSquiggles": "enabled",
+  "files.associations": {
+    "iostream": "cpp"
+  }
 }
